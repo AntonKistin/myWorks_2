@@ -1,0 +1,1 @@
+package ru.CS0; public class CS0{ public static void main(String[] args) {   CS0 _5 = _6 CS0(); CS0 _7 = _6 CS0(3, 9, '_7'); _7.input();  int _0, _1, _2; float _3, _4;  System.out.println(_7); System.out.println(_5); System.out.println(); System.out.println("Расстояние между точками А и В:"); System.out.println(_5.howLong(_7)); } } 
