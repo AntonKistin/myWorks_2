@@ -1,0 +1,1 @@
+A computer is an electronic machine that accepts processes, stores and outputs information. A typical computer consists of two parts: hardware and software. Hardware is any electronic or mechanical part of the computer system that you can see or touch. Software is a set of instructions, called a program, which tells a computer what to do. There are three basic hardware sections.
